@@ -7,9 +7,10 @@
 - [x] Deve ser possivel realizar um depósito;
 - [x] Deve ser possivel realizar um saque;
 - [x] Deve ser possivel buscar o extrato bancário do cliente por data;
-- [] Deve ser possivel atualizar dados da conta do cliente;
-- [] Deve ser possivel obter dados da conta do cliente;
-- [] Deve ser possivel deletar uma conta;
+- [x] Deve ser possivel atualizar dados da conta do cliente;
+- [x] Deve ser possivel obter dados da conta do cliente;
+- [x] Deve ser possivel deletar uma conta;
+- [] Deve ser possivel o balance;
 
 ---
 
@@ -20,4 +21,4 @@
 - [x] Não deve ser possivel fazer depósito em uma conta não existente;
 - [x] Não deve ser possivel fazer saque em uma conta não existente;
 - [x] Não deve ser possivel fazer um saque quando o saldo por insuficiente;
-- [] Não deve ser possivel excluir uma conta não existente;
+- [x] Não deve ser possivel excluir uma conta não existente;
